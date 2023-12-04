@@ -1,6 +1,12 @@
 # vscode project files
 .vscode
 
+# bin folder
+bin
+
+# build folder
+build
+
 # Prerequisites
 *.d
 
